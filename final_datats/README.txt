@@ -1,0 +1,1 @@
+all data with NaN replaced by median and date and time data aggregated.
